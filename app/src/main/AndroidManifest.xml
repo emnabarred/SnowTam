@@ -30,7 +30,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyAaGzXGS6lLfPy8lXCEo2Wulh5Tg_XbK3s" />
+            android:value="I changed it" />
 
         <uses-library
             android:name="org.apache.http.legacy"
