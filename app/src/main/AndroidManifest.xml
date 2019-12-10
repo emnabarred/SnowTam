@@ -28,9 +28,6 @@
         <activity android:name=".Activities.AirportsActivity" />
         <activity android:name=".Activities.SnowTamActivity" />
 
-        <meta-data
-            android:name="com.google.android.geo.API_KEY"
-            android:value="I changed it" />
 
         <uses-library
             android:name="org.apache.http.legacy"
